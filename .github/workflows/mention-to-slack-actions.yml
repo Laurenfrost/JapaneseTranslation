@@ -25,4 +25,4 @@ jobs:
           icon-url: https://github.githubassets.com/images/modules/logos_page/Octocat.png
           bot-name: ${{github.repository}}
           run-id: ${{ github.run_id }}
-          debug-flag: false
+          debug-flag: true
